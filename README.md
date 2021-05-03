@@ -10,3 +10,4 @@
 
 ## JPA
 ### [JPA 영속성 컨텍스트란?](https://velog.io/@qoxogus/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80)
+### [JPA 연관관계 매핑과 연관관계 주인](https://velog.io/@qoxogus/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9D%B8)
