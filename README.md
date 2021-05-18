@@ -12,3 +12,4 @@
 ### [JPA 영속성 컨텍스트란?](https://velog.io/@qoxogus/JPA-%EC%98%81%EC%86%8D%EC%84%B1-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EB%9E%80)
 ### [JPA 연관관계 매핑과 연관관계 주인](https://velog.io/@qoxogus/JPA-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91%EA%B3%BC-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EC%A3%BC%EC%9D%B8)
 ### [JPA 다양한 연관관계 매핑](https://velog.io/@qoxogus/JPA-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91)
+### [JPA 상속관계 매핑과 고급매핑](https://velog.io/@qoxogus/JPA-%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91%EA%B3%BC-%EA%B3%A0%EA%B8%89%EB%A7%A4%ED%95%91)
