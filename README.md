@@ -14,3 +14,4 @@
 ### [JPA 다양한 연관관계 매핑](https://velog.io/@qoxogus/JPA-%EB%8B%A4%EC%96%91%ED%95%9C-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91)
 ### [JPA 상속관계 매핑과 고급매핑](https://velog.io/@qoxogus/JPA-%EC%83%81%EC%86%8D%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91%EA%B3%BC-%EA%B3%A0%EA%B8%89%EB%A7%A4%ED%95%91)
 ### [JPA 프록시와 연관관계 관리](https://velog.io/@qoxogus/JPA-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EA%B4%80%EB%A6%AC)
+### [JPA 값 타입](https://velog.io/@qoxogus/JPA-%EA%B0%92-%ED%83%80%EC%9E%85)
